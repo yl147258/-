@@ -1,0 +1,10 @@
+showTime
+time
+{ display:block;font-size:18pt;font-weight:bold
+}
+hour
+{ display:block;line-size:16pt;font-style:bold
+}
+minute
+{ display:block;line-size:9pt;font-weight:bold
+}
